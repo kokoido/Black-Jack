@@ -2,6 +2,10 @@
 
 A simple, visually styled **Blackjack** game built with **HTML, CSS, and JavaScript**. Players can place bets, hit, stand, or double their cards while tracking their bank, total gains, and losses.  
 
+#Screenshots
+
+https://github.com/kokoido/Black-Jack/issues/1#issue-3870069108
+
 ## Features
 
 - Dynamic **player and dealer scores**
