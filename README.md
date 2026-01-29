@@ -4,7 +4,8 @@ A simple, visually styled **Blackjack** game built with **HTML, CSS, and JavaScr
 
 #Screenshots
 
-https://github.com/kokoido/Black-Jack/issues/1#issue-3870069108
+<img width="1349" height="803" alt="image" src="https://github.com/user-attachments/assets/f9d29df2-57c0-44f6-8dcd-011be0dd160f" />
+
 
 ## Features
 
