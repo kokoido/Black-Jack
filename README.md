@@ -1,6 +1,6 @@
 # Blackjack Game
 
-A simple, visually styled **Blackjack** game built with **HTML, CSS, and JavaScript**. Players can place bets, hit, stand, or double their cards while tracking their bank, total gains, and losses.  
+Blackjack game, built using Web technologies(html, CSS and JS). Players can place bets, hit, stand, or double their cards while tracking their bank, total gains, and losses.  
 
 #Screenshots
 
